@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Psychic Calculator</string>
+    <string name="title_psychic">🔮 Psychic</string>
+    <string name="zero">0</string>
+    <string name="trance_mode">👁️ ENTER TRANCE</string>
+    <string name="trance_mode_active">🔮 IN TRANCE (Eye Tracking)</string>
+    <string name="aura_default">Aura: Calm 🧘‍♂️</string>
+    <string name="aura_high">Aura: High Mental Resonance ⚡</string>
+    <string name="aura_trance">Aura: Astral Contact 🌌</string>
+    <string name="welcome_msg">✨ Psychic Calculator activated…</string>
+    <string name="btn_tarot">🎴 TAROT OF FATE</string>
+    <string name="btn_voice_on">🔊 VOICE ON</string>
+    <string name="btn_voice_off">🔇 SILENCE</string>
+    <string name="tarot_accept">Accept Fate ✨</string>
+</resources>

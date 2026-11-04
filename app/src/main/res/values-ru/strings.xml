@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Калькулятор-Экстрасенс</string>
+    <string name="title_psychic">🔮 Экстрасенс</string>
+    <string name="zero">0</string>
+    <string name="trance_mode">👁️ ВОЙТИ В ТРАНС</string>
+    <string name="trance_mode_active">🔮 В ТРАНСЕ (Eye Tracking)</string>
+    <string name="aura_default">Аура: Спокойная 🧘‍♂️</string>
+    <string name="aura_high">Аура: Высокий ментальный резонанс ⚡</string>
+    <string name="aura_trance">Аура: Астральный контакт 🌌</string>
+    <string name="welcome_msg">✨ Калькулятор-экстрасенс активирован…</string>
+    <string name="btn_tarot">🎴 ТАРО СУДЬБЫ</string>
+    <string name="btn_voice_on">🔊 ГОВОРИТЬ</string>
+    <string name="btn_voice_off">🔇 ТИШИНА</string>
+    <string name="tarot_accept">Принять Судьбу ✨</string>
+</resources>
